@@ -13,6 +13,14 @@ body {
   border: 2px solid #dddddd
 }
 
+.cabecera{
+  background: rgb(18, 75, 231);
+  padding: 10px;
+  color: white;
+  font-size: 25px;
+  text-align: left;
+}
+
 h1{
   font-size: 25px;
   color: blueviolet;
