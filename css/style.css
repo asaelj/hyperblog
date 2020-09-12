@@ -21,6 +21,13 @@ body {
   text-align: left;
 }
 
+footer{
+  padding: 10px;
+  background: green;
+  color: beige;
+  font-size: large;
+}
+
 h1{
   font-size: 25px;
   color: blueviolet;
